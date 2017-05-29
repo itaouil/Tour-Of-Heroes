@@ -1,1 +1,6 @@
 node_modules/
+.idea/
+src/app/hero.service.js
+src/app/hero.service.js.map
+src/app/mock-heroes.js
+src/app/mock-heroes.js.map
